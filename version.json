@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.2",
-  "download_url": "https://github.com/heami/ME-auto/releases/download/v1.0.2/ME.Support.System-v1.0.2.exe",
-  "update_notes": "EM 진입시 경로를 상대경로로 수정"
+  "latest_version": "1.0.3",
+  "download_url": "https://github.com/heami/ME-auto/releases/download/v1.0.3/ME.Support.System-v1.0.3.exe",
+  "update_notes": "ORCID 비교 문구 수정"
 }
