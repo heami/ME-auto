@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.3",
-  "download_url": "https://github.com/heami/ME-auto/releases/download/v1.0.3/ME.Support.System-v1.0.3.exe",
-  "update_notes": "ORCID 비교 문구 수정"
+  "latest_version": "1.0.4",
+  "download_url": "https://github.com/heami/ME-auto/releases/download/v1.0.4/ME.Support.System-v1.0.4.exe",
+  "update_notes": "EM 로그인 HTML 구조가 변경됨 "
 }
